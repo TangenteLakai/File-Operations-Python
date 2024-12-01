@@ -4,8 +4,12 @@
 Basic documentation with the most used and important features for the OS Library in Python
 
 ## Usage
-You can go to each chapter via the Code of Conduct and view the Markdown files directly on Github
-or you can download the images from img
+You can go to each chapter via the **Code of Conduc**t and view the **Markdown Files** directly on Github
+
+------------
+
+
+or you can download images from `img`
 
 
 ## Code of Conduct
