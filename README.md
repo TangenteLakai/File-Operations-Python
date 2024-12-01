@@ -15,7 +15,6 @@ or you can download images from `img`
 ## Code of Conduct
 
 [1. File and Directory Operation](docs/1. File and Directory Operation.md)
-
 [2. Path Operations](docs/2. Path Operations.md)
 [3. Project Management](docs/3. Project Management.md)
 [4. Environment Variables](docs/4. Environment Variables.md)
